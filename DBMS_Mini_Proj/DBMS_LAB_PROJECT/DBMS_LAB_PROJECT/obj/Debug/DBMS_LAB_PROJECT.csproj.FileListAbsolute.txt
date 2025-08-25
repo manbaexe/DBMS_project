@@ -1,0 +1,25 @@
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\bin\Debug\DBMS_LAB_PROJECT.exe.config
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\bin\Debug\DBMS_LAB_PROJECT.exe
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\bin\Debug\DBMS_LAB_PROJECT.pdb
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.csprojResolveAssemblyReference.cache
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form1.resources
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form2.resources
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Properties.Resources.resources
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.csproj.GenerateResource.Cache
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.exe
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.pdb
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form5.resources
+c:\users\vedansh makharia\onedrive\documents\visual studio 2012\Projects\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form6.resources
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\bin\Debug\DBMS_LAB_PROJECT.exe.config
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\bin\Debug\DBMS_LAB_PROJECT.exe
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\bin\Debug\DBMS_LAB_PROJECT.pdb
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.csproj.AssemblyReference.cache
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form1.resources
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form2.resources
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form5.resources
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Form6.resources
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.Properties.Resources.resources
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.csproj.GenerateResource.cache
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.csproj.CoreCompileInputs.cache
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.exe
+D:\DBMS_LAB_PROJECT\DBMS_LAB_PROJECT\obj\Debug\DBMS_LAB_PROJECT.pdb

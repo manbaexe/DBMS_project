@@ -1,0 +1,90 @@
+create table member(
+membership_id int,
+name varchar(20),
+phone int,
+city varchar(20),
+doj date,
+primary key (membership_id));
+
+create table manufacturer(
+man_id int,
+m_name varchar(20),
+primary key (man_id));
+
+create table employee(
+emp_id int,
+emp_name varchar(20),
+city varchar(20),
+primary key(emp_id));
+
+create table guest(
+phone int,
+name varchar(20),
+city varchar(20),
+primary key(phone));
+
+create table discount(
+discount_id int,
+dpercent int,
+primary key(discount_id));
+
+create table product(
+product_id int,
+p_name varchar(20),
+price float,
+category varchar(20),
+man_id int,
+primary key(product_id),
+foreign key(man_id) references manufacturer(man_id));
+
+create table cart(
+cart_id int,
+product_id int,
+quantity int,
+membership_id int,
+primary key(cart_id,product_id),
+foreign key(product_id) references product(product_id),
+foreign key(membership_id) references member(membership_id));
+
+create table billing(
+b_id int,
+b_date date,
+amount float,
+cart_id int,
+product_id int,
+emp_id int,
+discount_id int,
+mode varchar(20),
+primary key(b_id),
+foreign key(cart_id,product_id) references cart(cart_id,product_id),
+foreign key(emp_id) references employee(emp_id),
+foreign key(discount_id) references discount(discount_id));
+
+create table stock(
+product_id int,
+shelf_no int,
+quantity int,
+primary key(product_id,shelf_no),
+foreign key(product_id) references product(product_id));
+
+create table bought(
+membership_id int,
+product_id int,
+quantity int,
+primary key(membership_id,product_id),
+foreign key(membership_id) references member(membership_id),
+foreign key(product_id) references product(product_id));
+
+create table member_bill(
+membership_id int,
+b_id int,
+primary key(membership_id,b_id),
+foreign key(membership_id) references member(membership_id),
+foreign key(b_id) references billing(b_id));
+
+create table guest_bill(
+phone int,
+b_id int,
+primary key(phone,b_id),
+foreign key(phone) references guest(phone),
+foreign key(b_id) references billing(b_id));
